@@ -13,7 +13,7 @@
 git clone https://github.com/vorobel/WebpackTemplate WebpackTemplate
 
 # Go to the app:
-cd webpack-template
+cd WebpackTemplate
 
 # Install dependencies:
 npm install
